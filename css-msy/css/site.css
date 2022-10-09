@@ -46,3 +46,17 @@ h1{
     margin-left: 520px;
     text-align: center;
 }
+
+.web_dev{
+    text-decoration: underline;
+    display: none;
+}
+
+.mountain_image{
+    width: 200%;
+    height: 70%;
+}
+
+.cloud_image{
+    
+}
